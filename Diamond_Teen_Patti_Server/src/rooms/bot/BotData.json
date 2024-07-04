@@ -1,0 +1,60 @@
+{
+  "bots": [
+    {
+      "access_token": "1",
+      "username": "Salman Punjabi"
+    },
+    {
+      "access_token": "2",
+      "username": "Aamir Sharma"
+    },
+    {
+      "access_token": "3",
+      "username": "Taufik Yadav"
+    },
+    {
+      "access_token": "4",
+      "username": "Dawood Pandit"
+    },
+    {
+      "access_token": "5",
+      "username": "Osama Agarwal"
+    },
+    {
+      "access_token": "6",
+      "username": "Ansari Lal"
+    },
+    {
+      "access_token": "7",
+      "username": "Al-Qaida Tiwari"
+    },
+    {
+      "access_token": "8",
+      "username": "Sania Sahu"
+    },
+    {
+      "access_token": "9",
+      "username": "Faizal Choudhary"
+    },
+    {
+      "access_token": "10",
+      "username": "Naeem Khandelwal"
+    },
+    {
+      "access_token": "11",
+      "username": "Zahid Patel"
+    },
+    {
+      "access_token": "12",
+      "username": "Shahruk Jain"
+    },
+    {
+      "access_token": "13",
+      "username": "Nawazuddin Gupta"
+    },
+    {
+      "access_token": "14",
+      "username": "Zaid Banerjee"
+    }
+  ]
+}
